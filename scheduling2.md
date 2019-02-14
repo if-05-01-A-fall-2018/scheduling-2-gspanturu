@@ -24,6 +24,7 @@ B = 102,5
 B  will be taken by the scheduler because of its lower time.
 
 3. **CPU-bound and I/O-bound Processes**
+
 CPU-bound: needs high quanta but low priority
 I/O-bound: needs low quanta but high priority
 
